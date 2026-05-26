@@ -1,37 +1,63 @@
-# Hey 👋, I'm Meghana Gowda
+# Hey 👋, it's Meghana here!
 
-🎓 Final Year CSE Student  
-💻 Python & Django Developer  
-📊 Learning Data Science & AI
+### CSE Graduade | Python & Django Developer | Data Science Learner 🌱
 
-## 🚀 Technologies & Tools
+Known online as **mmegha6951**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <a href="https://github.com/mmegha6951">
+    <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  </a>
 </p>
 
----
+<br>
 
-## 📈 GitHub Stats
+## Programming Languages & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmegha6951&show_icons=true&theme=tokyonight" height="180"/>
+<p align="left">
 
-  <img src="https://streak-stats.demolab.com?user=mmegha6951&theme=tokyonight" height="180"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=c" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="55"/>
+
 </p>
+
+<br>
+
+## Frontend Development & Backend Development
+
+<p align="left">
+
+  <img src="https://skillicons.dev/icons?i=html" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=css" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=django" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+
+  <img src="https://skillicons.dev/icons?i=postgres" width="55"/>
+
+</p>
+
+<br>
+
+⭐ Feel free to explore my repositories and connect with me!
