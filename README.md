@@ -1,6 +1,6 @@
 # Hey 👋, it's Meghana here!
 
-### CSE Graduade | Python & Django Developer | Data Science Learner 🌱
+### CSE Graduate | Python & Django Developer | Data Science Learner 🌱
 
 Known online as **mmegha6951**
 
