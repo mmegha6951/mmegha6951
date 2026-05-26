@@ -17,9 +17,7 @@ Known online as **mmegha6951**
     <img src="https://skillicons.dev/icons?i=github" width="55"/>
   </a>
 </p>
-
 <br>
-
 ## Programming Languages & Technologies
 
 <p align="left">
