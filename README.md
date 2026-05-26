@@ -2,9 +2,7 @@
 
 🎓 Final Year CSE Student  
 💻 Python & Django Developer  
-📊 Learning Data Science & AI  
-
-## 🚀 Technologies & Tools
+📊 Learning Data Science & AI
 
 ## 🚀 Technologies & Tools
 
