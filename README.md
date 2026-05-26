@@ -30,6 +30,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmegha6951&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmegha6951&show_icons=true&theme=tokyonight" height="180"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mmegha6951&theme=tokyonight)
+  <img src="https://streak-stats.demolab.com?user=mmegha6951&theme=tokyonight" height="180"/>
+</p>
