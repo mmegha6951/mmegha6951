@@ -1,6 +1,6 @@
-# Hey 👋, it's Meghana here!
+# Hey 👋, it's mmegha6951 here!
 
-### CSE Graduade | Python & Django Developer | Data Science Learner 🌱
+### Final Year CSE Student | Python & Django Developer | Data Science Learner 🌱
 
 Known online as **mmegha6951**
 
@@ -17,7 +17,9 @@ Known online as **mmegha6951**
     <img src="https://skillicons.dev/icons?i=github" width="55"/>
   </a>
 </p>
+
 <br>
+
 ## Programming Languages & Technologies
 
 <p align="left">
